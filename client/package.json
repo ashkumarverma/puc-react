@@ -1,9 +1,7 @@
 {
-  "name": "reactjs-tuto",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Den Ash",
-  "license": "MIT",
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
