@@ -1,2 +1,2 @@
 # puc-react
-This puc new generation app
+This is puc new generation application.
